@@ -7,3 +7,5 @@ I added it locally.
 Again I added it online.
 
 I added this in the second branch.
+
+I added this again, and this is not supposed to be seen in the master branch. Rather, this is supposed to be seen only in the second branch.
